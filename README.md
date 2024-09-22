@@ -1,2 +1,2 @@
 # linear-quantum-results
-This repository contains the quantum implementations of the linear layers for the paper, **Quantum Implementation of Linear and Non-Linear Layers** by Baksi et al.
+This repository contains the quantum implementations of the linear layers for the paper, **Quantum Implementation of Linear and Non-Linear Layers** by Anubhab Baksi, Sumanta Chakraborty, Anupam Chattopadhyay, Matthew Chun, SK Hafizul Islam, Kyungbae Jang, Hyunji Kim, Yujin Oh, Soham Roy, Hwajeong Seo, Siyi Wang; accepted in IEEE International System-on-Chip Conference (SoCC), 2024.
