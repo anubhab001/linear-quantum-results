@@ -4,7 +4,18 @@ This repository contains the quantum implementations of the linear layers for th
 ## Results
 The following results are the currently best-known (those are being updated even after the camera-ready version of the paper is submitted):
 
-**AES MixColumn** -- [97 × 16 (CNOT count × Quantum depth)](./AES/aes_mixcol-97xor-16qdepth-slp.txt)
-
+* AES MixColumn: 97 × 16 (CNOT count × Quantum depth) ([file](./AES/aes_mixcol-97xor-16qdepth-slp.txt))
+* SHA-2:
+    * Σ₀:
+    * Σ₁: 
+    * σ₀:
+    * σ₁ 
+* ASCON:
+    * Σ₀: 
+    * Σ₁:
+    * Σ₂:
+    * Σ₃:
+    * Σ₄: 
+    
 ## Format
 All the results are in in-place SWAP and in-place XOR operations.
