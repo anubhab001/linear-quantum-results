@@ -23,4 +23,4 @@ The following results are the currently best-known (those are being updated even
     * Σ₄: 346 × 106 (CNOT count × Quantum depth) ([file11](./ASCON/ascon_SIGMA_4-346xor-106qdepth.txt))
     
 ## Format
-All the results are in-place SWAP and in-place XOR operations, except [file2](./AES/aes_mixcol-95xor-16qdepth-slp.txt) (here, the results are in-place Assignments and in-place XOR operations).
+All the results are in-place SWAP and in-place XOR operations, except [file2](./AES/aes_mixcol-95xor-16qdepth-slp.txt) (here, the results are in-place assignments and in-place XOR operations).
