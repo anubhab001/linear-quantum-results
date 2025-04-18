@@ -1,5 +1,5 @@
 # Linear-Quantum-Results
-This repository contains the quantum implementations of the linear layers for the paper, **Quantum Implementation of Linear and Non-Linear Layers** by Anubhab Baksi, Sumanta Chakraborty, Anupam Chattopadhyay, Matthew Chun, SK Hafizul Islam, Kyungbae Jang, Hyunji Kim, Yujin Oh, Soham Roy, Hwajeong Seo, Siyi Wang; published in IEEE 37th International System-on-Chip Conference (SOCC), Dresden, Germany, 2024; pp. 1-6, doi: 10.1109/SOCC62300.2024.10737862.
+This repository contains the quantum implementations of the linear layers for the paper, **Quantum Implementation of Linear and Non-Linear Layers** by Anubhab Baksi, Sumanta Chakraborty, Anupam Chattopadhyay, Matthew Chun, SK Hafizul Islam, Kyungbae Jang, Hyunji Kim, Yujin Oh, Soham Roy, Hwajeong Seo, Siyi Wang; published in IEEE 37th International System-on-Chip Conference (SOCC), Dresden, Germany, 2024.
 
 Conference URL: https://www.ieee-socc.org/ 
 
