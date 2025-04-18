@@ -9,7 +9,7 @@ Publication URL: https://ieeexplore.ieee.org/abstract/document/10737862
 The following results are the currently best-known (those are being updated even after the camera-ready version of the paper is submitted):
 
 * AES MixColumn: 97 × 16 (CNOT count × Quantum depth) ([file1](./AES/aes_mixcol-97xor-16qdepth-slp.txt))
-* AES MixColumn: 95 × 16 (CNOT count × Quantum depth) ([file2](./AES/aes_mixcol-95xor-31qdepth-slp.txt))
+* AES MixColumn: 95 × 31 (CNOT count × Quantum depth) ([file2](./AES/aes_mixcol-95xor-31qdepth-slp.txt))
 * SHA-2:
     * Σ₀: 107 × 36 (CNOT count × Quantum depth) ([file3](./SHA-2/sha2_SIGMA_0-107xor-36qdepth.txt))
     * Σ₁: 115 × 29 (CNOT count × Quantum depth) ([file4](./SHA-2/sha2_SIGMA_1-115xor-29qdepth.txt))
