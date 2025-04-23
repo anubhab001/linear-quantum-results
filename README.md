@@ -30,27 +30,27 @@ All the results are in-place SWAP and in-place XOR operations, except [file2](./
 
 $
 % --------- 1 -----------
-\kappa_{0} = \kappa_{0} + \kappa_{7}\\
-\kappa_{1} = \kappa_{1} + \kappa_{5}\\
-\kappa_{2} = \kappa_{2} + \kappa_{4}\\
+\kappa_{0} = \kappa_{0} \oplus \kappa_{7}\\
+\kappa_{1} = \kappa_{1} \oplus \kappa_{5}\\
+\kappa_{2} = \kappa_{2} \oplus \kappa_{4}\\
 % --------- 2 -----------
-\kappa_{0} = \kappa_{0} + \kappa_{2}\\
-\kappa_{1} = \kappa_{1} + \kappa_{7}\\
+\kappa_{0} = \kappa_{0} \oplus \kappa_{2}\\
+\kappa_{1} = \kappa_{1} \oplus \kappa_{7}\\
 % --------- 3 -----------
-\kappa_{0} = \kappa_{0} + \kappa_{5}\\
-\kappa_{2} = \kappa_{2} + \kappa_{7}\\
+\kappa_{0} = \kappa_{0} \oplus \kappa_{5}\\
+\kappa_{2} = \kappa_{2} \oplus \kappa_{7}\\
 % --------- 4 -----------
-\kappa_{0} = \kappa_{0} + \kappa_{6}\\
-\kappa_{1} = \kappa_{1} + \kappa_{4}\\
-\kappa_{2} = \kappa_{2} + \kappa_{5}\\
+\kappa_{0} = \kappa_{0} \oplus \kappa_{6}\\
+\kappa_{1} = \kappa_{1} \oplus \kappa_{4}\\
+\kappa_{2} = \kappa_{2} \oplus \kappa_{5}\\
 % --------- 5 -----------
-\kappa_{0} = \kappa_{0} + \kappa_{3}\\
+\kappa_{0} = \kappa_{0} \oplus \kappa_{3}\\
 % --------- 6 -----------
-\kappa_{1} = \kappa_{1} + \kappa_{6}\\
+\kappa_{1} = \kappa_{1} \oplus \kappa_{6}\\
 % --------- 7 -----------
-\kappa_{0} = \kappa_{0} + \kappa_{4}\\
+\kappa_{0} = \kappa_{0} \oplus \kappa_{4}\\
 % --------- 8 ----------->
-\kappa_{2} = \kappa_{2} + \kappa_{6}
+\kappa_{2} = \kappa_{2} \oplus \kappa_{6}
 $
 
 It incurs the quantum depth of 8.
