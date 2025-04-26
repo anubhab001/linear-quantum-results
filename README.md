@@ -25,5 +25,4 @@ The following results are the currently best-known (those are being updated even
 
 ## Corrigendum to Paper
 1. Figure 4, the $X$ gates are denoted as $\Lambda$.
-2. The right hand side expression in Section 5.1 (page 4 top, right column) should be as given [here](8-depth.pdf).
-It incurs the quantum depth of 8.
+2. The right hand side expression in Section 5.1 (page 4 top, right column) should be as given [here](8-depth.pdf). It incurs the quantum depth of 7. The original expression incurs the quantum depth of 10.
